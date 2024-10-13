@@ -3,7 +3,7 @@
 </p>
 
 <h1>How to Remote Desktop a Virtual Machine</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines how to gain remote access to a virtual machine.<br />
 
 
 <h2>Video Demonstration</h2>
