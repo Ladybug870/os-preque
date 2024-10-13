@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<img src=https://cdn.windowsreport.com/wp-content/uploads/2022/09/Untitled-design-55.jpg"/>
 </p>
 
 <h1>How to Remote Desktop a Virtual Machine</h1>
