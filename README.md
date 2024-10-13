@@ -31,7 +31,7 @@ This tutorial outlines how to gain remote access to a virtual machine.<br />
 <h2>Installation Steps</h2>
 
 <p>
-<img![windows vm](https://github.com/user-attachments/assets/1ec2cf0b-44bd-46a6-9666-661a937b1e35)
+<img![windows vm](https://github.com/user-attachments/assets/1ec2cf0b-44bd-46a6-9666-661a937b1e35)>
  "/>
 </p>
 <p>
